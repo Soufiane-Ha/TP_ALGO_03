@@ -1,4 +1,4 @@
-# TP_ALGO_03
+# TP_ALGO_MergeSort_And_QuickSort
 > Objectif
 
 Protocole expérimental
